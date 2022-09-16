@@ -11,7 +11,8 @@ animated background : https://animatedbackgrounds.me/
 css tools : https://10015.io/tools/css-clip-path-generator
 
 design animations : https://artboard.studio/
-animated icons : https://lordicon.com/keyframes animation css : https://keyframes.app/animate
+animated icons : https://lordicon.com/keyframes
+animation css : https://keyframes.app/animate
 css loader : https://whirl.netlify.app/
 
 JS retro (mini) games : https://kaboomjs.com/

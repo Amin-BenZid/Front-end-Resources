@@ -1,0 +1,17 @@
+For cahrts :  https://chartscss.org/
+react slider: https://slider-react-component.vercel.app/
+css boxes :   https://neumorphism.io/#e0e0e0
+
+color gradient css : https://chartscss.org/
+mesh gradient css : https://www.csshero.org/mesher/
+
+SVG :  https://getwaves.io/
+generate SVG : https://patternpad.com/
+animated background : https://animatedbackgrounds.me/
+css tools : https://10015.io/tools/css-clip-path-generator
+
+design animations : https://artboard.studio/
+animated icons : https://lordicon.com/keyframes animation css : https://keyframes.app/animate
+css loader : https://whirl.netlify.app/
+
+JS retro (mini) games : https://kaboomjs.com/

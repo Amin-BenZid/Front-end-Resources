@@ -10,6 +10,7 @@ generate SVG : https://patternpad.com/
 animated background : https://animatedbackgrounds.me/
 css tools : https://10015.io/tools/css-clip-path-generator
 
+animated text : https://tobiasahlin.com/moving-letters/
 design animations : https://artboard.studio/
 animated icons : https://lordicon.com/keyframes
 animation css : https://keyframes.app/animate
